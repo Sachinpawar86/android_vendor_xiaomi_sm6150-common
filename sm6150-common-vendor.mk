@@ -47,6 +47,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sm6150-common/proprietary/system_ext/lib/libwfduibcsinkinterface.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libwfduibcsinkinterface.so \
     vendor/xiaomi/sm6150-common/proprietary/system_ext/lib/libwfduibcsrc.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libwfduibcsrc.so \
     vendor/xiaomi/sm6150-common/proprietary/system_ext/lib/libwfduibcsrcinterface.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libwfduibcsrcinterface.so \
+    vendor/xiaomi/sm6150-common/proprietary/system_ext/lib/vendor.qti.hardware.camera.device@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.qti.hardware.camera.device@1.0.so \
+    vendor/xiaomi/sm6150-common/proprietary/system_ext/lib/vendor.qti.hardware.camera.device@2.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.qti.hardware.camera.device@2.0.so \
+    vendor/xiaomi/sm6150-common/proprietary/system_ext/lib/vendor.qti.hardware.camera.device@3.5.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.qti.hardware.camera.device@3.5.so \
     vendor/xiaomi/sm6150-common/proprietary/system_ext/lib/vendor.qti.hardware.wifidisplaysession@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.qti.hardware.wifidisplaysession@1.0.so \
     vendor/xiaomi/sm6150-common/proprietary/system_ext/lib64/com.qualcomm.qti.dpm.api@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/com.qualcomm.qti.dpm.api@1.0.so \
     vendor/xiaomi/sm6150-common/proprietary/system_ext/lib64/fm_helium.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/fm_helium.so \
